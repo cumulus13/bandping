@@ -8,15 +8,15 @@ Terminal-Based Network Monitoring Tools
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cumulus13/bandping/master/pingmon.png" alt="Logo" width="320">
+  <img src="https://raw.githubusercontent.com/cumulus13/bandping/master/pingmon.png" alt="Pingmon">
 </p>
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cumulus13/bandping/master/bandwidth.png" alt="Logo" width="320">
+  <img src="https://raw.githubusercontent.com/cumulus13/bandping/master/bandwidth.png" alt="Bandwidth">
 </p>
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cumulus13/bandping/master/bandwidth_down_up.png" alt="Logo" width="320">
+  <img src="https://raw.githubusercontent.com/cumulus13/bandping/master/bandwidth_down_up.png" alt="Bandwidth - Download + Upload">
 </p>
 
 
