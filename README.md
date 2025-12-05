@@ -6,6 +6,7 @@ Terminal-Based Network Monitoring Tools
 
 [Documentation](https://medium.com/@cumulus13/building-beautiful-terminal-based-network-monitoring-tools-in-python-6a036514097a)
 
+## Screenshot
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cumulus13/bandping/master/pingmon.png" alt="Pingmon">
